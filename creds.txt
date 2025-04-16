@@ -1,3 +1,0 @@
-
-username= abcd11
-password=1234
